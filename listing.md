@@ -18,7 +18,7 @@ Both views allow drag-and-drop prioritization and are rich with information,
 including title, milestone, assignee, labels, attached pull requests,
 dependencies, and more.
 
-![Image1](https://raw.githubusercontent.com/codetree/integration-listing/master/image1.png)
+<img src='https://raw.githubusercontent.com/codetree/integration-listing/master/image1.png' style='width: 645px' />
 
 ### Powerful filters for teasing out important issues
 
