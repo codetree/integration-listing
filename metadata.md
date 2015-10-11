@@ -20,6 +20,4 @@ TODO
 
 ### Contacts
 
-Technical, security, and escalation:
-Derrick Reimer
-derrick at codetree dot com
+Technical, security, and escalation: Derrick Reimer <derrick at codetree dot com>
