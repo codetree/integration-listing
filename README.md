@@ -8,7 +8,8 @@ This is an OAuth installation listing and belongs under the **Collaborate** cate
 
 ### Blurb
 
-TODO
+- The simplest way to organize and manage your GitHub issues
+- Organize and manage your GitHub issues with ease
 
 ### Links
 
@@ -22,7 +23,8 @@ TODO
 
 ### Contacts
 
-The technical, security, and escalation contact is Derrick Reimer &lt;derrick at codetree dot com&gt;
+- The technical, security, and escalation contact is Derrick Reimer &lt;derrick at codetree dot com&gt;
+- The "Developer" is [@codetree](https://github.com/codetree)
 
 ### Content
 
