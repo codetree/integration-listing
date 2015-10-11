@@ -1,4 +1,4 @@
-# Listing Metadata
+# Metadata
 
 As requested here: https://developer.github.com/integrations-directory/getting-listed/
 
@@ -20,4 +20,4 @@ TODO
 
 ### Contacts
 
-Technical, security, and escalation: Derrick Reimer <derrick at codetree dot com>
+Technical, security, and escalation: Derrick Reimer &lt;derrick at codetree dot com&gt;
