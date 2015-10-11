@@ -18,7 +18,7 @@ Both views allow drag-and-drop prioritization and are rich with information,
 including title, milestone, assignee, labels, attached pull requests,
 dependencies, and more.
 
-[IMAGE HERE]
+![Image1](https://raw.githubusercontent.com/codetree/integration-listing/master/image1.png)
 
 ### Powerful filters for teasing out important issues
 
@@ -31,17 +31,7 @@ Other filters include the "Blocked" filter, which shows issues that are
 currently blocked by other open issues, and the "Pull request status" filter,
 which shows all issues that have (or do not have) a pull request attached.
 
-[IMAGE HERE]
-
-### Manage multiple repositories under one project
-
-Each Codetree project can support as many repositories as you need in one
-unified interface. In addition to issues, you can manage your milestones and
-labels directly in Codetree. When you create/update/delete a milestone or
-label in Codetree, we will automatically apply the changes to all your linked
-repositories.
-
-[IMAGE HERE]
+![Image2](https://raw.githubusercontent.com/codetree/integration-listing/master/image2.png)
 
 ### Track dependencies and pull requests
 
@@ -52,7 +42,15 @@ as simple as dropping a comment like this: `needs #123`.
 Dependencies are automatically displayed on issues in Codetree, as well as any
 attached pull requests and their associated build statuses.
 
-[IMAGE HERE]
+![Image3](https://raw.githubusercontent.com/codetree/integration-listing/master/image3.png)
+
+### Manage multiple repositories under one project
+
+Each Codetree project can support as many repositories as you need in one
+unified interface. In addition to issues, you can manage your milestones and
+labels directly in Codetree. When you create/update/delete a milestone or
+label in Codetree, we will automatically apply the changes to all your linked
+repositories.
 
 ### Designed to help you be more productive
 
