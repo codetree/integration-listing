@@ -2,7 +2,7 @@ Codetree is a lightweight project management app that sits directly on top of
 GitHub. You can manage multiple repositories under one Codetree project
 and enrich your issue tracking experience with drag-and-drop prioritization,
 dependency tracking, custom task boards, and point estimates. Finally solve the
-"What should I work on next?" problem once and for all.
+"What should I work on next?" problem.
 
 ### Two ways to visualize your issues
 
