@@ -8,8 +8,6 @@ This is an OAuth installation listing and belongs under the **Collaborate** cate
 
 ### Blurb
 
-- The simplest way to organize and manage your GitHub issues
-- Organize and manage your GitHub issues with ease
 - Lightweight project management for GitHub issues
 
 ### Links
