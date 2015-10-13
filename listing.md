@@ -1,5 +1,5 @@
-Codetree is a lightweight project management app that sits directly on top of
-GitHub. Using Codetree, you can manage multiple repositories under one project
+Codetree is a lightweight project management app that syncs directly with
+GitHub issues. With Codetree, you can manage multiple repositories under one project
 and enrich your issue tracking experience with drag-and-drop prioritization,
 dependency tracking, custom task boards, point estimates, and more. Spend less
 time managing issues so you get back to shipping code.
