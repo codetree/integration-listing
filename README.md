@@ -20,7 +20,10 @@ This is an OAuth installation listing and belongs under the **Collaborate** cate
 - Status: http://status.codetree.com/
 - Pricing: https://codetree.com/pricing
 - Installation: https://codetree.com/signup
-- Documentation: TODO
+- Documentation: https://codetree.com/docs
+
+**Note**: the documentation endpoint redirects to a GitHub wiki for now. We have
+plans to build out a whole docs site.
 
 ### Contacts
 
